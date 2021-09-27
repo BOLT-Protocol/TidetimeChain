@@ -22,14 +22,14 @@
   - [跨鏈資產移轉](#跨鏈資產移轉)
 - [社群治理](#社群治理)
   - [版本管控](#版本管控)
-  - [Tidetime Improvement Proposals](#Tidetime Improvement Proposals)
-    - [提案](#)
-    - [否決](#)
-    - [貢獻](#)
-    - [稽核](#)
-    - [發佈](#)
-    - [獎勵](#)
-- [技術展望](#)
+  - [Tidetime Improvement Proposals](#tidetime-improvement-proposals)
+    - [提案](#提案)
+    - [否決](#否決)
+    - [貢獻](#貢獻)
+    - [稽核](#稽核)
+    - [發佈](#發佈)
+    - [獎勵](#獎勵)
+- [技術展望](#技術展望)
 
 # 技術背景
 # 設計原則
