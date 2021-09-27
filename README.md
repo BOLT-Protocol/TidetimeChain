@@ -1,0 +1,2 @@
+# TidetimeChain
+Tidetime Blockchain Solution
