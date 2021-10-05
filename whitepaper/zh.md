@@ -97,20 +97,24 @@ Tidetime Chain 的區塊獎勵採用價值動態平衡模式，每 28,800 區塊
    3. 第 57,601 區塊 Rs = 5,760，第 57,601 ~ 86,400 區塊獎勵 BR = 0.19424。
    4. 第 80,000 區塊抵押 ETH 換取 20,000,000 TTT 後，Rm = 400,000，Rs = 11354.112，第 86,401 ~ 115,200 區塊獎勵 BR = 0.388645888。
 
-# 分散式代理機制
+# 分散式代理
 區塊鏈作為資產管理平台，仍存在部分問題造成用戶進入門檻，Tidetime Chain 提供了分散式代理機制解決以下問題：
 1. DAPP 服務新用戶進入門檻高。
 2. 區塊鏈資產保管取決於私鑰，難以兼顧安全性與易用性。
 ## 元交易代理
 
 ## 門限交易代理
-### Tidetime Infallible Distributed Endorsment
+### TIDE: Tidetime Infallible Distributed Endorsment
 
 ## Oracle 代理
 
+# 擴充技術
+## 原生擴充槽
+
 # 跨鏈通訊協議
-## 跨鏈資產移轉
+## BOLT: Booster of Ledger Technology
+
 # 社群治理
 ## 版本管控
-## Tidetime Improvement Proposals
+## TIP: Tidetime Improvement Proposals
 # 技術展望
