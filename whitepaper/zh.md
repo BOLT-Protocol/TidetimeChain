@@ -18,7 +18,7 @@
   - [門限交易代理](#門限交易代理)
   - [Oracle 代理](#Oracle-代理)
 - [跨鏈通訊協議](#跨鏈通訊協議)
-  - [跨鏈資產移轉](#跨鏈資產移轉)
+  - [BOLT: Booster of Ledger Technology](#bolt-booster-of-ledger-technology)
 - [社群治理](#社群治理)
   - [版本管控](#版本管控)
   - [Tidetime Improvement Proposals](#tidetime-improvement-proposals)
